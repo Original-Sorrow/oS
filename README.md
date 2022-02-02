@@ -1,2 +1,1 @@
-# oS
-open sms
+Coming soon...
